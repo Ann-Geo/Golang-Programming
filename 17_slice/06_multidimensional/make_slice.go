@@ -9,6 +9,6 @@ func main(){
 	fmt.Println(students)
 	fmt.Println(students == nil)
   	student[0] = "Sarah"
-	student = append(student, "Sarah")
+	student = append(student, "jenny")
 	fmt.Println(student)
 }
